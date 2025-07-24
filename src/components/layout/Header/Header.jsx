@@ -1,8 +1,7 @@
-import './Header.css'
-import Head from '../Head/Head'
-import Search from '../Search/Search'
-import NavBar from '../NavBar/NavBar'
-import React from 'react'
+import Head from '../Header/Head/Head'
+import Search from '../Header/Search/Search'
+import NavBar from '../Header/NavBar/NavBar'
+
 
 const Header = () => {
   return (
